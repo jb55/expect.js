@@ -42,6 +42,16 @@ Expose the `index.js` found at the top level of this repository.
 <script src="expect.js"></script>
 ```
 
+### Component
+
+Install with [component(1)](https://github.com/component/component)
+
+    $ component install jb55/expect.js
+
+require like so:
+
+    var expect = require('expect');
+
 ## API
 
 **ok**: asserts that the value is _truthy_ or not

@@ -1,0 +1,10 @@
+{
+  "name": "expect",
+  "repo": "jb55/expect.js",
+  "description": "expect.js BDD assertions for your browser",
+  "keywords": ["expect", "expect.js"],
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
